@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 1. Clone the repository (or download the ZIP file):
    ```bash
    git clone https://github.com/Alisha138/Cognorise_BMI_Calculator.git
-2. Open the HTML file: Open index.html (or the name you saved it as) in your web browser.
+2. Open the HTML file: Open index.html in your web browser.
 # Usage
 - Enter your weight in kilograms in the designated input field.
 - Enter your height in meters in the designated input field.
