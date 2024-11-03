@@ -23,3 +23,4 @@ To run this project locally, follow these steps:
 - Click the "Calculate BMI" button.
 - Your BMI will be displayed along with your weight status.
 # Screenshot
+![IMG-20241103-WA0076](https://github.com/user-attachments/assets/14577993-cad2-451f-a34e-282f1652849a)
