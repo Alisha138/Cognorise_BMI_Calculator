@@ -9,9 +9,7 @@ This project is an interactive and responsive body mass index (BMI) calculator t
 - Hover effect: Hovering over the submit(Calculate BMI) button changes the button's color to show interactivity.
 # Technologies Used
 -HTML: For structuring the layout of the BMI Calculator.
-
 -CSS: For styling the calculator, including media queries for responsiveness and hover effects for interactivity.
-
 -JavaScript: For calculating the BMI and using DOM nanipulation.
 # Installation
 To run this project locally, follow these steps:
